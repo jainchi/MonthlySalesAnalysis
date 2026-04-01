@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This project analyzes 12 months of sales data using Python (Pandas).
+This project analyzes 9 months of sales data using Python (Pandas).
 The goal was to clean raw data, perform analysis, and extract meaningful business insights.
 
 ---
