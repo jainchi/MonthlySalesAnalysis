@@ -107,3 +107,22 @@ print(Individual_sold)
 # AAA Batteries
 # AA Batteries
 # USB-C Cable
+
+
+# Final Insights:----
+# December had the highest sales among all months. 
+# October and November also showed strong performance. 
+# iPhone and MacBook Pro generated the highest revenue. 
+
+# AAA Batteries and AA Batteries were the most sold products. 
+# Charging cables and accessories also had high sales volume. 
+
+# San Francisco generated the highest sales. 
+# Los Angeles also performed strongly. 
+# Austin and Portland had comparatively lower sales. 
+
+# Most expensive product price: 1700. 
+# Cheapest product price: 2.99 
+
+# SUMMARY----------->>>>>>>>>>
+👉 # “I performed end-to-end sales analysis using Python, # and identified key trends in monthly performance, product contribution, and geographic sales distribution.”
